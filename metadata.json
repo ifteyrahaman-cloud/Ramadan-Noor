@@ -1,0 +1,5 @@
+{
+  "name": "Ramadan Noor",
+  "description": "A spiritual companion for Ramadan and Eid, featuring countdowns, prayer times, and daily reflections.",
+  "requestFramePermissions": ["geolocation"]
+}
